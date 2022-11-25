@@ -23,7 +23,7 @@
     align-items: center;
     text-decoration: none;
     width: 30%;
-    border: 2px solid red;
+  
 }
 
 .navbar ul li {
@@ -61,7 +61,7 @@
     justify-content: center;
     align-items: center;
     text-align: center;
-    border: 2px solid red;
+ 
     font-size: 20px;
 }
 
@@ -112,7 +112,7 @@ a {
     gap: 1rem;
     justify-content: center;
     align-items: center;
-    border: 5px solid red;
+ 
 }
 #carname{
     font-size: 35px ;
